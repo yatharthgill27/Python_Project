@@ -5,7 +5,7 @@ pygame.mixer.init()
 
 WIDTH, HEIGHT = 1366, 768
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("SpaceShip Duels")
+pygame.display.set_caption("")
 
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
