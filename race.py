@@ -21,7 +21,7 @@ WIDTH, HEIGHT = TRACK.get_width(), TRACK.get_height()
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Racing Game!")
 
-MAIN_FONT = pygame.font.SysFont("comicsans", 44)
+MAIN_FONT = pygame.font.SysFont("aptos", 44)
 
 FPS = 60
 PATH = [(175, 119), (110, 70), (56, 133), (70, 481), (318, 731), (404, 680), (418, 521), (507, 475), (600, 551), (613, 715), (736, 713),
